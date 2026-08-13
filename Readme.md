@@ -8,7 +8,7 @@
 <p align="right">
    <img src="https://github.com/user-attachments/assets/ada8a82a-4dd0-4865-ac0a-707501654f95" width="360" height="190">
 
-<br> <img src="https://github.com/user-attachments/assets/b44b1af1-7657-4b7d-9f56-0eadc322a44c" width="25" height="25"> ${\color{#fe9fb3} \text{gonna smack him if he gettin' too drunk,}} {\color{#b6d4f8} \text{I'm sorry.}}$ ♡𓈒ֵ۫
+<img src="https://github.com/user-attachments/assets/b44b1af1-7657-4b7d-9f56-0eadc322a44c" width="25" height="25"> ${\color{#fe9fb3} \text{gonna smack him if he gettin' too drunk,}} {\color{#b6d4f8} \text{I'm sorry.}}$ ♡𓈒ֵ۫
 
 Ꮺ୧ <img src="https://github.com/user-attachments/assets/41260cee-f8ee-4c71-9261-dcf5cd62f50e" width="25" height="25"> ${\color{#fe9fb3} \text{now}} {\color{#a1dfed} \text{, now we go until }} {\color{#fe9fb3} \text{they kick us out}} {\color{#a1dfed} \text{, out}}$ <img src="https://github.com/user-attachments/assets/e7c99c7a-bdad-48ce-8393-35c16ce3cb0d" width="25" height="25"> 
 
