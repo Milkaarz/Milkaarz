@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zofsej3u6h2cteyyfrvyr6wffq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zofsej3u6h2cteyyfrvyr6wffq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=b6d4f8&interchange=false&profanity=false&hide_remaster=false&bar_color=b6d4f8&bar_color_cover=false">
-  </a> <img src="https://github.com/user-attachments/assets/464fc74a-61c0-42c6-9e33-aef69de3c632" width="40" height="40">
+  </a> <img src="https://github.com/user-attachments/assets/464fc74a-61c0-42c6-9e33-aef69de3c632" width="60" height="60">
 </p>
 
 <img alighn="bottom" src="https://github.com/user-attachments/assets/73ecffa3-0d61-43fe-9fd2-f74c16c1d9fb" width="990" height="20">
