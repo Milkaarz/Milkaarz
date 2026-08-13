@@ -6,7 +6,7 @@
 <img src="https://github.com/user-attachments/assets/323dc834-e501-444b-94e8-7a798f0988c3" width="30" height="25"> ${\color{#fe9fb3} \text{﹢ all these people...}} {\color{#a1dfed} \text{looking at me. . .}}$ ![](https://komarev.com/ghpvc/?username=Milkaarz&color=fe9fb3&label=✿&style=flat)<br>
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/9486981f-3cf0-4794-8d6a-5c522db4978f" width="400" height="140">
+  <img src="https://github.com/user-attachments/assets/9486981f-3cf0-4794-8d6a-5c522db4978f" width="360" height="120">
 </p>
 
 <br> <img src="https://github.com/user-attachments/assets/b44b1af1-7657-4b7d-9f56-0eadc322a44c" width="25" height="25"> ${\color{#fe9fb3} \text{gonna smack him if he gettin' too drunk, drunk,}} {\color{#b6d4f8} \text{I'm sorry.}}$ ♡𓈒ֵ۫
