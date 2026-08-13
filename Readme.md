@@ -3,7 +3,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/569c899c-3fdc-4e5e-99e7-c85a973e473c" witdh="450" height="490">
 
 
-<br><img src="https://github.com/user-attachments/assets/323dc834-e501-444b-94e8-7a798f0988c3" width="30" height="25"> ${\color{#fe9fb3} \text{﹢ all these people...}} {\color{#a1dfed} \text{looking at me. . .}}$ ![](https://komarev.com/ghpvc/?username=Milkaarz&color=fe9fb3&label=✿&style=flat)<br>
+<img src="https://github.com/user-attachments/assets/323dc834-e501-444b-94e8-7a798f0988c3" width="30" height="25"> ${\color{#fe9fb3} \text{﹢ all these people...}} {\color{#a1dfed} \text{looking at me. . .}}$ ![](https://komarev.com/ghpvc/?username=Milkaarz&color=fe9fb3&label=✿&style=flat)<br>
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/9486981f-3cf0-4794-8d6a-5c522db4978f" width="400" height="140">
