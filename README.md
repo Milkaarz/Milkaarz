@@ -4,23 +4,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ec5c73?style=for-the-badge&logo=linkedin&logoColor=ecdfab" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://codeforces.com/profile/Glorfindell" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-ec5c73?style=for-the-badge&logo=codeforces&logoColor=ecdfab" />
   </a>
   <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest-ec5c73?style=for-the-badge&logo=pinterest&logoColor=ecdfab" />
   </a>
   <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chess.com-ec5c73?style=for-the-badge&logo=chessdotcom&logoColor=ecdfab" />
   </a>
 </p>
 
-
 <br>
 
-<h2 align="center"> <img src="/imgs/Icon 1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="/imgs/Icon 1.png" width="25" align="absbottom" /> <em>About  me </em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
