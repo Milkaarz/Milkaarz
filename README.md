@@ -34,7 +34,7 @@
 </p>
 
 <div align="center">
-  <img src="imgs/line-rosa.png" width="530" height="3" />
+  <img src="imgs/line-rosa.png" width="533" height="3" />
 </div>
 
 <p align="center">
@@ -48,7 +48,7 @@
 </p>
 
 <div align="center">
-  <img src="imgs/line-bege.png" width="530" height="3" />
+  <img src="imgs/line-bege.png" width="533" height="3" />
 </div>
 
 <br/>
