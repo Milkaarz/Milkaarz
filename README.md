@@ -10,17 +10,16 @@
   <a href="https://www.linkedin.com/in/giovana-lopes-300509445/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ec5c73?style=for-the-badge&logo=linkedin&logoColor=ecdfab" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-ec5c73?style=for-the-badge&logo=codeforces&logoColor=ecdfab" />
+  <a href="https://github.com/Milkaarz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ec5c73?style=for-the-badge&logo=github&logoColor=ecdfab" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-ec5c73?style=for-the-badge&logo=pinterest&logoColor=ecdfab" />
+   <a href="https://open.spotify.com/user/31zofsej3u6h2cteyyfrvyr6wffq?si=fe5ac55c431649b1" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-ec5c73?style=for-the-badge&logo=spotify&logoColor=ecdfab" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-ec5c73?style=for-the-badge&logo=chessdotcom&logoColor=ecdfab" />
+  <a href="mailto:lpsgiovanaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ec5c73?style=for-the-badge&logo=gmail&logoColor=ecdfab" />
   </a>
 </p>
-
 <br>
 
 <h2 align="center">
