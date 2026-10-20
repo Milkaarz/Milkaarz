@@ -73,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Milkaarz/Teste-readme/blob/output/snake.svg?raw=true" alt="Snake animation" width="100%" />
+  <img src="https://github.com/Milkaarz/Milkaarz/blob/output/snake.svg?raw=true" alt="Snake animation" width="100%" />
 </p>
