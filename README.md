@@ -76,7 +76,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkaarz&bg_color=0d1117&color=ecdfab&line=ec5c73&point=ecdfab&area=true&area_color=ec5c73&hide_border=true" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Milkaarz/Milkaarz/output/snake.svg" alt="Snake animation" width="100%" />
-</p>
