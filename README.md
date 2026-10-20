@@ -16,9 +16,9 @@
    <a href="https://open.spotify.com/user/31zofsej3u6h2cteyyfrvyr6wffq?si=fe5ac55c431649b1" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-ec5c73?style=for-the-badge&logo=spotify&logoColor=ecdfab" />
   </a>
-  <a href="mailto:lpsgiovanaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ec5c73?style=for-the-badge&logo=gmail&logoColor=ecdfab" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=lpsgiovanaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ec5c73?style=for-the-badge&logo=gmail&logoColor=ecdfab" />
+</a>
 </p>
 <br>
 
