@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="https://www.linkedin.com/in/giovana-lopes-300509445/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ec5c73?style=for-the-badge&logo=linkedin&logoColor=ecdfab" />
   </a>
   <a href="https://codeforces.com/profile/Glorfindell" target="_blank">
