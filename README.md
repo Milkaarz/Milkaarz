@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./imgs/divider-tech.svg" alt="" width="100%">
+</p>
+
+<p align="center">
   <img src="./imgs/GifBanner.gif" alt="Banner" width="100%">
 </p>
 
@@ -23,43 +27,52 @@
   <img src="imgs/about-me-tech.svg" alt="About me" height="70" />
 </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="imgs/Quadrado-2.gif" width="250" align="right" style="margin-left: 10px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! 👋 <em><b>I'm Giovana Lopes</b></em>, a third-semester Systems Analysis and Development student. This little corner of the internet is where I keep my <b>projects</b> and my <b>programming studies</b>, and where I share what I learn along the way. 🌸 I'm always curious to learn something new, build things and grow as a developer.
 </p>
 
-
-<br/>
-
-<p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
-</p>
-
-<br/>
-<br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
+<div align="center">
+  <img src="imgs/line-rosa.png" width="620" height="3" />
 </div>
+
+<p align="center">
+  <br/>
+  <img src="/imgs/Icon%201.png" height="22" align="absmiddle" /> <code>Studying at FATEC</code>
+  &nbsp;&nbsp;
+  <img src="/imgs/Icon%202.png" height="22" align="absmiddle" /> <code>Learning more every day</code>
+  &nbsp;&nbsp;
+  <img src="/imgs/Icon%203.png" height="22" align="absmiddle" /> <code>Open for conversations</code>
+  <br/><br/>
+</p>
+
+<div align="center">
+  <img src="imgs/line-bege.png" width="620" height="3" />
+</div>
+
+<br/>
+
+<h2 align="center">
+  <img src="imgs/technologies-tech.svg" alt="Technologies" height="70" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-ec5c73?style=for-the-badge&logo=openjdk&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/C-ec5c73?style=for-the-badge&logo=c&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/C++-ec5c73?style=for-the-badge&logo=cplusplus&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/NODE.JS-ec5c73?style=for-the-badge&logo=nodedotjs&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/FIGMA-ec5c73?style=for-the-badge&logo=figma&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-ec5c73?style=for-the-badge&logo=visualstudiocode&logoColor=ecdfab" />
+  <img src="https://img.shields.io/badge/CSS3-ec5c73?style=for-the-badge&logo=css3&logoColor=ecdfab" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Milkaarz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ec5c73&text_color=ecdfab&icon_color=ec5c73&ring_color=ec5c73" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milkaarz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec5c73&text_color=ecdfab" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkaarz&bg_color=0d1117&color=ecdfab&line=ec5c73&point=ecdfab&area=true&area_color=ec5c73&hide_border=true" width="100%" />
+</p>
