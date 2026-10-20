@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40" role="img" aria-label="Divider">
+  <defs>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0">
+      <stop offset="0" stop-color="#ec5c73" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#ec5c73"/>
+      <stop offset="0.5" stop-color="#ecdfab"/>
+      <stop offset="0.75" stop-color="#ec5c73"/>
+      <stop offset="1" stop-color="#ec5c73" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- linha principal -->
+  <path d="M40 20 H350" stroke="url(#fade)" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M450 20 H760" stroke="url(#fade)" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ramificações de circuito -->
+  <g fill="none" stroke="#ec5c73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+    <path d="M110 20 L122 8 H190"/>
+    <path d="M230 20 L242 32 H290"/>
+    <path d="M690 20 L678 8 H610"/>
+    <path d="M570 20 L558 32 H510"/>
+  </g>
+
+  <!-- nós piscando -->
+  <g fill="#ecdfab">
+    <circle cx="190" cy="8" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="290" cy="32" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="8" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="32" r="2.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- pulsos de luz em direção ao centro -->
+  <path d="M40 20 H350" pathLength="1" fill="none" stroke="#ecdfab" stroke-width="2.5" stroke-linecap="round"
+        stroke-dasharray="0.08 0.92">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M760 20 H450" pathLength="1" fill="none" stroke="#ecdfab" stroke-width="2.5" stroke-linecap="round"
+        stroke-dasharray="0.08 0.92">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- pontos de encaixe -->
+  <circle cx="350" cy="20" r="3" fill="#ec5c73"/>
+  <circle cx="450" cy="20" r="3" fill="#ec5c73"/>
+
+  <!-- chevrons < > -->
+  <g fill="none" stroke="#ec5c73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M374 12 L366 20 L374 28"/>
+    <path d="M426 12 L434 20 L426 28"/>
+  </g>
+
+  <!-- losango central -->
+  <polygon points="400,12 408,20 400,28 392,20" fill="#ec5c73" filter="url(#glow)" opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="400,8 412,20 400,32 388,20" fill="none" stroke="#ecdfab" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="400,14 406,20 400,26 394,20" fill="#ec5c73"/>
+</svg>
