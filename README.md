@@ -78,5 +78,5 @@
 
 
 <p align="center">
-  <img src="imgs/footer-tech.svg" alt="Thanks for stopping by" height="95" />
+  <img src="imgs/footer-techs.svg" alt="Thanks for stopping by" height="95" />
 </p>
