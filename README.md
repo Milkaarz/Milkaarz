@@ -75,3 +75,8 @@
 <p align="center">
   <img src="https://github.com/Milkaarz/Milkaarz/blob/output/github-snake.svg?raw=true" alt="Snake animation" width="100%" />
 </p>
+
+<p align="center">
+  <img src="imgs/views.svg" alt="Visitas do perfil" width="440" /><br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Milkaarz.Milkaarz&label=TOTAL&labelColor=%23ec5c73&countColor=%23ecdfab&style=flat-square" alt="Contador" />
+</p>
