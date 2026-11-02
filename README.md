@@ -67,10 +67,6 @@
   <img src="https://img.shields.io/badge/CSS3-ec5c73?style=for-the-badge&logo=css3&logoColor=ecdfab" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Milkaarz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ec5c73&text_color=ecdfab&icon_color=ec5c73&ring_color=ec5c73" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milkaarz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec5c73&text_color=ecdfab" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Milkaarz/Milkaarz/blob/output/github-snake.svg?raw=true" alt="Snake animation" width="100%" />
